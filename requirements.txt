@@ -1,0 +1,5 @@
+ollama==0.6.1
+openai_whisper==20250625
+pyttsx3==2.99
+scipy==1.17.0
+sounddevice==0.5.3
